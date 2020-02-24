@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/servicebus/correlate#readme",
   "dependencies": {
-    "uuid": "^3.3.2"
+    "uuid": "^7.0.0"
   }
 }
