@@ -1,4 +1,4 @@
-var newId = require('uuid/v1');
+var newId = require('uuid').v1;
 
 function addCorrelationId (queueName, message, options, next) {
   if (typeof options === 'function') {
